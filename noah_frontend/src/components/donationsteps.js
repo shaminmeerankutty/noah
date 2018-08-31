@@ -19,7 +19,7 @@ class HomeView extends React.Component {
         <section id="donation-steps">
           <div className="container steps">
             <div className="row step">
-              <div className="col-md-6 background-1 step-image">
+              <div className="col-md-6 background-call step-image">
 
               </div>
               <div className="col-md-6 step-contents">
@@ -32,30 +32,30 @@ class HomeView extends React.Component {
                 <h2 className="mb-4 heading underline">Step 2</h2>
                 <p>Clean the item, as good as it can get. If it is an electronic item, you can use soap water to clean the outer cover. You can also use spirit / deo to clean the item. Make it look like a gift! </p>
               </div>
-              <div className="col-md-6 background-1 step-image">
+              <div className="col-md-6 background-clean step-image">
 
               </div>
             </div>
             <div className="row step">
-              <div className="col-md-6 background-1 step-image">
+              <div className="col-md-6 background-inspect step-image">
 
               </div>
               <div className="col-md-6 step-contents">
-                <h2 className="mb-4 heading underline">Step 3</h2>
-                <p>Pack it. Great if you could pack it in the original box. It is ok if you cannot find one too. We will take care of it. </p>
+              <h2 className="mb-4 heading underline">Step 3</h2>
+                <p>Re-check the item to make sure it is in working condition and VERY GOOD physical condition </p>
               </div>
             </div>
             <div className="row step">
               <div className="col-md-6 step-contents">
                 <h2 className="mb-4 heading underline">Step 4</h2>
-                <p>Re-check the item to make sure it is in working condition and VERY GOOD physical condition </p>
+                <p>Pack it. Great if you could pack it in the original box. It is ok if you cannot find one too. We will take care of it. </p>
               </div>
-              <div className="col-md-6 background-1 step-image">
+              <div className="col-md-6 background-pack step-image">
 
               </div>
             </div>
             <div className="row step">
-              <div className="col-md-6 background-1 step-image">
+              <div className="col-md-6 background-pickup step-image">
 
               </div>
               <div className="col-md-6 step-contents">

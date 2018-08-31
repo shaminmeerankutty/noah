@@ -36,8 +36,26 @@ header.sub-page{
   background: #F05F40;
 }
 
-.background-1{
-  background: url('../img/dummy.jpg');
+.background-pickup{
+  background: url('../img/pickup.png');
+  background-size: cover;
+}
+
+.background-clean{
+  background: url('../img/clean.png');
+  background-size: cover;
+}
+
+.background-pack{
+  background: url('../img/pack.png');
+  background-size: cover;
+}
+.background-inspect{
+  background: url('../img/inspect.png');
+  background-size: cover;
+}
+.background-call{
+  background: url('../img/call.png');
   background-size: cover;
 }
 
