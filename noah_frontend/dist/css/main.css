@@ -9,3 +9,7 @@ header .contents .content{
   left: 0;
   top: 0;
 }
+
+#help .help-btn{
+  font-size: 0.8rem;
+}
