@@ -37,25 +37,25 @@ header.sub-page{
 }
 
 .background-pickup{
-  background: url('../img/pickup.png');
+  background: url('../img/donation-icons/pickup.png');
   background-size: cover;
 }
 
 .background-clean{
-  background: url('../img/clean.png');
+  background: url('../img/donation-icons/clean.png');
   background-size: cover;
 }
 
 .background-pack{
-  background: url('../img/pack.png');
+  background: url('../img/donation-icons/pack.png');
   background-size: cover;
 }
 .background-inspect{
-  background: url('../img/inspect.png');
+  background: url('../img/donation-icons/inspect.png');
   background-size: cover;
 }
 .background-call{
-  background: url('../img/call.png');
+  background: url('../img/donation-icons/call.png');
   background-size: cover;
 }
 
