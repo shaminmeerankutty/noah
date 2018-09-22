@@ -7,6 +7,7 @@ import configureStore from './store';
 import HomeView from './components/home'
 import DonationSteps from './components/donationsteps'
 import TermsConditons from './components/termsconditions'
+import Privacy from './components/privacy';
 
 ReactDOM.render(
   <Provider store={configureStore()}>
@@ -15,6 +16,7 @@ ReactDOM.render(
         <Route exact path="/" component={HomeView} />
         <Route exact path="/how-to-donate" component={DonationSteps} />
         <Route exact path="/terms-and-conditions" component={TermsConditons} />
+        <Route exact path="/privacy-policy" component={Privacy} />
       </div>
     </Router>
   </Provider>,
