@@ -18,6 +18,7 @@ export default () => (
                         <p className="text-justify text-faded mb-5 content">Those small appliances and utensils that are lying around at our homes, unused or rarely used, could make a huge difference to the people who have lost everything. An unused iron box, a dinner set you got as a gift, an emergency lamp you rarely use and much more. Donate them to the people who have lost everything in the flood and be part of rebuilding Kerala. </p>
                     </div>
                     <a className="btn btn-primary btn-xl js-scroll-trigger" href="#donate">Donate Appliances or Utensils</a>
+                    <h6> <br/>* Do you wish to collect and donate items in bulk? Please write to us at <a className="link-home" href="mailto:koodorukkam@gmail.com">koodorukkam@gmail.com</a></h6>
                 </div>
             </div>
         </div>

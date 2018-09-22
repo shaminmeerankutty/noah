@@ -205,6 +205,7 @@ class DonateView extends React.Component {
                 <div className="row text-center">
                     <button style={{padding: "18px 20px"}} type="submit" className="btn btn-primary btn-lg btn-block">Donate</button>
                 </div>
+                <h6> <br/>* Do you wish to collect and donate items in bulk? Please write to us at <a className="link-home" href="mailto:koodorukkam@gmail.com">koodorukkam@gmail.com</a></h6>
             </form>
         </div>
         <br/><br/>
